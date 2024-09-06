@@ -1,0 +1,27 @@
+---
+title: "Homework 1"
+editor: visual
+---
+
+```{r}
+
+# Exercise 1: Warming up
+
+
+# Exercise 2: Import tidy data
+
+
+# Exercise 3: Tidy data properties
+
+
+# Exercise 4: Get to know the data
+
+
+# Exercise 5: Data structure
+
+
+# Exercise 6: Your turn
+
+
+# Exercise 7: Brainstorm
+```
