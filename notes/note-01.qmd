@@ -1,3 +1,26 @@
 ---
-title: "Note 01"
+title: "Notes 1"
 ---
+Chap 1:
+Steps:
+-	Data Collection:
+-	Data Preparation: 
+-	Data Visualization:
+-	Data Analysis:
+-	Data Storytelling:
+
+Chap 2:
+Console is good for:	
+quick calculations	
+trying out code
+pulling up help files
+
+Console is bad for most everything else, including…
+documenting our work
+editing our work
+communicating our work
+being able to reproduce our work
+
+Quarto:
+Quarto and the console operate independently unless code chunks in Quarto are actively run, affecting their visibility and storage.
+

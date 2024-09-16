@@ -39,5 +39,38 @@
     "crumbs": [
       "Notes"
     ]
+  },
+  {
+    "objectID": "notes/note-01.html",
+    "href": "notes/note-01.html",
+    "title": "4  Notes 1",
+    "section": "",
+    "text": "Chap 1: Steps: - Data Collection: - Data Preparation: - Data Visualization: - Data Analysis: - Data Storytelling:\nChap 2: Console is good for:\nquick calculations\ntrying out code pulling up help files\nConsole is bad for most everything else, including… documenting our work editing our work communicating our work being able to reproduce our work\nQuarto: Quarto and the console operate independently unless code chunks in Quarto are actively run, affecting their visibility and storage.",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Notes 1</span>"
+    ]
+  },
+  {
+    "objectID": "notes/note-02.html",
+    "href": "notes/note-02.html",
+    "title": "5  Note 02",
+    "section": "",
+    "text": "Chap 3: ggplot2: - Part of the tidyverse package. - Implements the “grammar of graphics” to structure and generate plots. - Facilitates creating complex plots through a coherent system of components.\nChap 4: - Bar Charts: Ideal for categorical or discrete variables with a few outcomes.\n\nHistograms: Best for quantitative variables with many outcomes, showing frequency distributions.\nScatter Plots: Great for visualizing relationships between two quantitative variables.\nDensity Plots: Useful for comparing distributions, with modifications like color to distinguish between groups.",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Note 02</span>"
+    ]
+  },
+  {
+    "objectID": "notes/Note 03.html",
+    "href": "notes/Note 03.html",
+    "title": "6  Note-03",
+    "section": "",
+    "text": "6.1",
+    "crumbs": [
+      "Notes",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Note-03</span>"
+    ]
   }
 ]

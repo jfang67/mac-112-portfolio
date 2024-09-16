@@ -1,3 +1,17 @@
 ---
 title: "Note 02"
 ---
+Chap 3:
+ggplot2:
+-	Part of the tidyverse package.
+-	Implements the “grammar of graphics” to structure and generate plots.
+-	Facilitates creating complex plots through a coherent system of components.
+
+Chap 4:
+-	Bar Charts: Ideal for categorical or discrete variables with a few outcomes.
+
+-	Histograms: Best for quantitative variables with many outcomes, showing frequency distributions.
+
+-	Scatter Plots: Great for visualizing relationships between two quantitative variables.
+
+-	Density Plots: Useful for comparing distributions, with modifications like color to distinguish between groups.
